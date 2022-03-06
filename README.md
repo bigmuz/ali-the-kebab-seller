@@ -1,2 +1,2 @@
-# Ali-the-Kebab-seller
-Discord bot made in Python
+# Ali the Kebab Seller
+Basic Discord bot made in Python
